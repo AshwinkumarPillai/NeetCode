@@ -6,15 +6,15 @@ class Solution(object):
         :rtype: List[List[str]]
         """
         
-        m = {}
+        m = defaultdict(list)
 
         for s in strs:
-            key = ''.join(sorted(s))
-            
-            if key in m.keys():
-                m[key].append(s)
-            else:
-                m[key] = [s]
-        
-        ans = [val for _, val in m.items()]
-        return ans
+
+            bitMap = [0] * 26
+
+            for x in s:
+                bitMap[ord(x) - ord('a')] += 1
+
+            m[tuple(bitMap)].append(s)
+
+        return m.values()
