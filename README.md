@@ -11,6 +11,7 @@ Roadmap - [Link](https://neetcode.io/roadmap)
 5. [347 - Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
 6.
 7. [238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+8. [36 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 
 ## Neetcode 150
 
