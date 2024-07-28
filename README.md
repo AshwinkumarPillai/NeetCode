@@ -18,6 +18,7 @@ Roadmap - [Link](https://neetcode.io/roadmap)
 ### Two Pointers
 
 1. [125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+2. [167 - Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 
 ## Neetcode 150
 
