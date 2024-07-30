@@ -19,6 +19,7 @@ Roadmap - [Link](https://neetcode.io/roadmap)
 
 1. [125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 2. [167 - Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+3. [15 - 3Sum](https://leetcode.com/problems/3sum/description/)
 
 ## Neetcode 150
 
