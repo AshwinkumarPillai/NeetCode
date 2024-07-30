@@ -22,3 +22,4 @@
 
 1. [20 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 2. [155 - Min Stack](https://leetcode.com/problems/min-stack/description/)
+3. [150 - Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)
