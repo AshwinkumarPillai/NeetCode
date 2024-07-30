@@ -1,10 +1,6 @@
 # NEETCODE
 
-Roadmap - [Link](https://neetcode.io/roadmap)
-
-## Blind 75
-
-### Arrays and Hashing
+## Arrays and Hashing
 
 1. [217 - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 2. [242 - Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
@@ -15,13 +11,9 @@ Roadmap - [Link](https://neetcode.io/roadmap)
 7. [238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
 8. [36 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 
-### Two Pointers
+## Two Pointers
 
 1. [125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
 2. [167 - Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 3. [15 - 3Sum](https://leetcode.com/problems/3sum/description/)
-
-## Neetcode 150
-
-1. [217 - Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
-2. [242 - Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+4. [11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
