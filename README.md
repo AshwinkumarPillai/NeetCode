@@ -17,3 +17,7 @@
 2. [167 - Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
 3. [15 - 3Sum](https://leetcode.com/problems/3sum/description/)
 4. [11 - Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)
+
+## Stack
+
+1. [20 - Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
