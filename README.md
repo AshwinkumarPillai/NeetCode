@@ -27,3 +27,8 @@
 4. [22 - Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) <!-- TODO -->
 5. [739 - Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
 6. [853 - Car Fleet](https://leetcode.com/problems/car-fleet/description/)
+7. [84 - Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)<!-- TODO -->
+
+## Binary Search
+
+1. [704 - Binary Search](https://leetcode.com/problems/binary-search/description/)
