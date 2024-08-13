@@ -45,3 +45,4 @@
 ## Trees
 
 1. [226 - Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
+2. [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
