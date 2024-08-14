@@ -1,40 +1,28 @@
-class Solution
-{
-public:
-    vector<int> rightSideView(TreeNode *root)
-    {
-        vector<int> ans;
-        queue<TreeNode *> q;
+class Solution:
+    def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
+        q = []
+        ans = []
 
-        if (root)
-        {
-            q.push(root);
-            ans.push_back(root->val);
-        }
+        if root:
+            q.append(root)
+            ans.append(root.val)
+        
+        while len(q) > 0:
+            sz = len(q)
+            recent = None
 
-        while (!q.empty())
-        {
-            int sz = q.size();
-            TreeNode *recent = NULL;
-            while (sz--)
-            {
-                TreeNode *node = q.front();
-                q.pop();
-                if (node->left)
-                {
-                    q.push(node->left);
-                    recent = node->left;
-                }
-                if (node->right)
-                {
-                    q.push(node->right);
-                    recent = node->right;
-                }
-            }
+            while sz > 0:
+                node = q[0]
+                if node.left:
+                    q.append(node.left)
+                    recent = node.left
+                if node.right:
+                    q.append(node.right)
+                    recent = node.right
+                q.pop(0)
+                sz -= 1
 
-            if (recent)
-                ans.push_back(recent->val);
-        }
-        return ans;
-    }
-};
+            if recent is not None:
+                ans.append(recent.val)
+
+        return ans
