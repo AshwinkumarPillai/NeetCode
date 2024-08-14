@@ -48,3 +48,4 @@
 2. [104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
 3. []()
 4. [110 - Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+5. [100 - Same Tree](https://leetcode.com/problems/same-tree/description/)
