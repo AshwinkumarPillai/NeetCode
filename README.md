@@ -42,6 +42,8 @@
 
 ## Linked List
 
+1. [206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+
 ## Trees
 
 1. [226 - Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
