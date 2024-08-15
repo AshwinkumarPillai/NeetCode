@@ -54,3 +54,4 @@
 8. [102 - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)
 9. [199 - Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)
 10. [1448 - Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/)
+11. [98 - Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)
