@@ -44,6 +44,7 @@
 
 1. [206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 2. [21 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+3. [143 - Reorder List](https://leetcode.com/problems/reorder-list/description/)
 
 ## Trees
 
